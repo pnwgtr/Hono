@@ -1,0 +1,11 @@
+{
+  "name": "cyberroi-hono",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "wrangler dev"
+  },
+  "dependencies": {
+    "hono": "^3.11.7"
+  }
+}
