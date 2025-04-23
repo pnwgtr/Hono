@@ -1,3 +1,7 @@
-name = "cyberroi-api"
+name = "cyber-roi"
+compatibility_date = "2024-04-22"
+
 main = "src/index.js"
-compatibility_date = "2025-04-22"
+
+[site]
+bucket = "./public"
