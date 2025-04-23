@@ -1,4 +1,4 @@
-name = "cyber-roi"
+name = "cyberroi-api"
 compatibility_date = "2024-04-22"
 
 main = "src/index.js"
